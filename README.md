@@ -1,6 +1,6 @@
 ArchivesSpace EAD2PDF
 --------------------
-A customized version of ead2pdf which includes @RockefellerArchiveCenter's logo instead of the default @archivesspace one.
+A customized version of [ead2pdf](https://github.com/archivesspace/ead2pdf) which includes [Rockefeller Archive Center's](https://github.com/RockefellerArchiveCenter) logo instead of the default [ArchivesSpace](https://github.com/archivesspace) one.
 
 This is a basic little script to convert EAD files into PDFs.
 It uses a slightly tweaked XSLT developed by Winona Salesky, using the Apache FO library
